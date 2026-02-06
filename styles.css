@@ -11,8 +11,7 @@ body{
 }
 
 .holder > div:first-child {
-	grid-column:1/-1;
-	grid-template-columns:1fr 3fr 1fr;
+	grid-column: 1/-1;
 }
 .header{
 	background-color:#011e29;
@@ -39,5 +38,5 @@ body{
 	text-align:center;
 	border-radius:10px;
 	width:200px
-	margin-right:0px;
+	/* margin-right:0px; */
 }
